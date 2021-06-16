@@ -1,5 +1,6 @@
 #include <iostream>
 #include <array>
+#include <string>
 void separateoddsandevens(const int arr[], std::size_t sizearr,
     int** odds, std::size_t* oddsn, int** evens, std::size_t* evenn )
 {
